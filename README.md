@@ -30,9 +30,6 @@ The saved baseline must remain trustworthy.
 
 ## Project Screenshots
 
-### Python Script and Terminal Full Output
-![Python Script and Terminal Full Output](screenshots/Python_Script_and_Terminal_Full_Output.png)
-
 ### Python Script for File Fingerprinting
 ![Python Script for File Fingerprinting](screenshots/Python_Script_for_File_Fingerprinting.png)
 
