@@ -17,7 +17,7 @@ python3 checker.py
 - Later run: displays UNCHANGED or MODIFIED
 
 ## Testing
-- Ran the checker without cahnging the files: UNCHANGED.'
+- Ran the checker without changing the files: UNCHANGED.'
 - Changed a word, saved, and ran it again: MODIFIED.
 
 ## Skills practiced
@@ -27,3 +27,6 @@ Python, file handling, SHA-256 hashing, and if/else statements.
 Checks one file when run manually. Detects content changes,
 but cannot determine whether they are malicious.
 The saved baseline must remain trustworthy.
+
+## Screenshots
+
