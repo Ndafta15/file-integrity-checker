@@ -28,5 +28,7 @@ Checks one file when run manually. Detects content changes,
 but cannot determine whether they are malicious.
 The saved baseline must remain trustworthy.
 
-## Screenshots
+## Project Screenshots
+
+### Python Script and Terminal Full Output
 
