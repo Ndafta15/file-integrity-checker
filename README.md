@@ -9,9 +9,9 @@ with a saved fingerprint to detect changes.
 ## How to run
 Requires Python3. Open a terminal in the project folder and run: 
 
-'''bash 
+```bash 
 python3 checker.py
-'''
+```
 
 - First run: creates baseline.txt
 - Later run: displays UNCHANGED or MODIFIED
